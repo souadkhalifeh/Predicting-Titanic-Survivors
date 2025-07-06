@@ -35,10 +35,10 @@ Contains two files:
      - Use cross-validation for model robustness
 
 4.Evaluation:
-        - Use accuracy, precision, recall, and confusion matrix
+     - Use accuracy, precision, recall, and confusion matrix
 
 5.Bonus (Advanced):
-        - Hyperparameter tuning using GridSearchCV
+       -Hyperparameter tuning using GridSearchCV
 
 
 
