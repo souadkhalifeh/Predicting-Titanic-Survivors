@@ -4,7 +4,8 @@
 Build a machine learning model that predicts whether a passenger survived the Titanic disaster based on features such as age, sex, ticket class, and more.
 
 # 📦 Dataset:
-Titanic Dataset on Kaggle: no wo
+Titanic Dataset on Kaggle: (https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+
 Contains two files:
 - train.csv: With labels (Survived: 0 = No, 1 = Yes)
 - test.csv: Without labels (used for final prediction submission)
@@ -34,10 +35,10 @@ Contains two files:
      - Try models like Logistic Regression, Random Forest, or XGBoost
      - Use cross-validation for model robustness
 
-4.Evaluation:
+4. Evaluation:
      - Use accuracy, precision, recall, and confusion matrix
 
-5.Bonus (Advanced):
+5. Bonus (Advanced):
        -Hyperparameter tuning using GridSearchCV
 
 
