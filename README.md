@@ -4,7 +4,7 @@
 Build a machine learning model that predicts whether a passenger survived the Titanic disaster based on features such as age, sex, ticket class, and more.
 
 # 📦 Dataset:
-Titanic Dataset on Kaggle: (https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+Titanic Dataset on Kaggle: ([https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/competitions/titanic/data))
 
 Contains two files:
 - train.csv: With labels (Survived: 0 = No, 1 = Yes)
